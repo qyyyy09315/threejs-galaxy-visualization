@@ -15,6 +15,9 @@ node_modules/
 dist/
 .cache/
 
+# Helper scripts
+push-to-github.bat
+
 # Misc
 *.log
 .env
