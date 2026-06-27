@@ -1,7 +1,11 @@
 ---
 name: threejs-galaxy-visualization
 description: Create immersive 3D galaxy/stellar knowledge graph visualizations using Three.js. Covers multi-layered node rendering (core+halo+glow+spike), procedural canvas textures, spiral arm particle systems, nebula sprites, interaction feedback, and performance optimization (bloom toggle, idle-aware rendering). Use when building data visualizations, knowledge graphs, or educational tools with a cosmic/space theme.
-version: 1.0.0
+metadata:
+  slug: threejs-galaxy-visualization
+  display_name: Three.js 星系知识图谱
+  description_zh: 用 Three.js 构建宇宙星系风格的 3D 知识图谱可视化。涵盖多层节点渲染、程序化纹理、螺旋臂粒子、交互反馈与性能优化。
+  description_en: Build cosmic 3D knowledge graph visualizations with Three.js. Covers multi-layer node rendering, procedural textures, spiral arm particles, interaction feedback, and performance optimization.
 ---
 
 # Three.js Galaxy Visualization
