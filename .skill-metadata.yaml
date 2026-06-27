@@ -1,0 +1,33 @@
+examples:
+  - id: build-galaxy-viz
+    title:
+      zh: 构建星系知识图谱
+      en: Build Galaxy Knowledge Graph
+    description:
+      zh: 使用 Three.js 创建一个宇宙风格的 3D 知识图谱，数据节点渲染为星系中的恒星
+      en: Create a cosmic-styled 3D knowledge graph with Three.js, where data nodes render as stars in a galaxy
+    prompt:
+      zh: 用 Three.js 帮我搭建一个星系风格的知识图谱可视化，包含多层节点渲染、螺旋臂背景和交互反馈
+      en: Build a galaxy-styled knowledge graph visualization with Three.js, including multi-layer nodes, spiral arm background, and interaction feedback
+
+  - id: optimize-threejs-perf
+    title:
+      zh: 优化 Three.js 渲染性能
+      en: Optimize Three.js Rendering Performance
+    description:
+      zh: 对包含大量粒子系统的 Three.js 场景进行性能优化，降低 CPU/GPU 占用
+      en: Optimize a Three.js scene with heavy particle systems to reduce CPU/GPU usage
+    prompt:
+      zh: 我的 Three.js 场景有很多粒子，CPU 占用很高，帮我优化性能
+      en: My Three.js scene has lots of particles and high CPU usage, help me optimize performance
+
+  - id: procedural-textures
+    title:
+      zh: 程序化生成星场纹理
+      en: Generate Procedural Starfield Textures
+    description:
+      zh: 用 Canvas 2D 程序化生成辉光、星光和十字芒纹理，无需外部图片资源
+      en: Generate glow, starlight, and diffraction spike textures procedurally via Canvas 2D, no external assets needed
+    prompt:
+      zh: 帮我用 Canvas 2D 生成 Three.js 用的辉光和星光纹理，要有渐变效果
+      en: Help me generate glow and starlight textures for Three.js using Canvas 2D with gradient effects
